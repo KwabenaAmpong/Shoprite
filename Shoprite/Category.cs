@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Prince
+namespace Shoprite
 {
     public partial class Category : Form
     {

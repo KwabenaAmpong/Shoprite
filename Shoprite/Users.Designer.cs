@@ -1,4 +1,4 @@
-﻿namespace Prince
+﻿namespace Shoprite
 {
     partial class Users
     {

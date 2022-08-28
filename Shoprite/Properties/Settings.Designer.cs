@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Prince.Properties
+namespace Shoprite.Properties
 {
 
 
